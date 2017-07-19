@@ -13,3 +13,5 @@ The goal of this simulation is to evaluate the SPEB and MSE performance and the 
 ### ABBREVIATIONS
 -   ERC:     Equivalent ranging coefficient
 -   FIM:     Fisher information matrix
+
+The code was developed and tested in MATLAB R2016a
