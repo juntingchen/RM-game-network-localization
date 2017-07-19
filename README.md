@@ -1,6 +1,6 @@
 # RM-game-network-localization
 
-This set MATLAB code generates simulation results in the paper
+This set MATLAB code generates simulation results presented in the paper titled
 
 J. Chen, W. Dai, Y. Shen, and M. Z. Win, "Resource Management Games for Distributed Network Localization," IEEE J. Sel. Areas Commun., vol. 35, no. 2, pp. 317--329, Feb. 2017.
 
