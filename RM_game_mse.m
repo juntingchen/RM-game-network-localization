@@ -34,7 +34,7 @@ addpath Sub
 % Case Configuration
 Vs = 0.02;         % Changed from an array to a scaler
 Sigma_dB = 3:3:30; % dBm 
-N_topo = 4;     % # of realizations (Monte-Carlo simulations)
+N_topo = 2000;     % # of realizations (Monte-Carlo simulations)
 L0 = 2;
 
 % Power and Channel SETTING
