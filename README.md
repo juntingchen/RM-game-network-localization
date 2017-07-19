@@ -11,5 +11,5 @@ Date: Sept 19, 2017.
 The goal of this simulation is to evaluate the SPEB and MSE performance and the power consumption over network cooperative localization with round-trip TOA ranging under various game approaches.
 
 ### ABBREVIATIONS
--   ERC     Equivalent ranging coefficient
--   FIM     Fisher information matrix
+-   ERC:     Equivalent ranging coefficient
+-   FIM:     Fisher information matrix
